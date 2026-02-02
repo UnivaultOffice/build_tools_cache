@@ -1,0 +1,13 @@
+{
+  "name": "v8_89",
+  "archive": "v8_cache_pack.tgz",
+  "sha256": "EDC97CC74B98C02EAD170FA1313CDDE3A13DE53EB362160CF3BC217415E8C786",
+  "parts": [
+    "v8_cache_pack.tgz.part000",
+    "v8_cache_pack.tgz.part001",
+    "v8_cache_pack.tgz.part002",
+    "v8_cache_pack.tgz.part003",
+    "v8_cache_pack.tgz.part004",
+    "v8_cache_pack.tgz.part005"
+  ]
+}
